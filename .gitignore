@@ -1,3 +1,7 @@
+# Personal, machine-specific agent and editor settings
+.claude/settings.local.json
+.cursor/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
